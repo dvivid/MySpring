@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-beans:4.0.3.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/dev/ND-IDE-Java-0.9.2/IDE-Java/.m2/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/dev/ND-IDE-Java-0.9.2/IDE-Java/.m2/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/dev/ND-IDE-Java-0.9.2/IDE-Java/.m2/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.whalin:Memcached-Java-Client:3.0.1">
+    <CLASSES>
+      <root url="jar://D:/dev/ND-IDE-Java-0.9.2/IDE-Java/.m2/com/whalin/Memcached-Java-Client/3.0.1/Memcached-Java-Client-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/dev/ND-IDE-Java-0.9.2/IDE-Java/.m2/com/whalin/Memcached-Java-Client/3.0.1/Memcached-Java-Client-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/dev/ND-IDE-Java-0.9.2/IDE-Java/.m2/com/whalin/Memcached-Java-Client/3.0.1/Memcached-Java-Client-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
